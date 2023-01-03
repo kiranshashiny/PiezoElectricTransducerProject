@@ -174,3 +174,20 @@ You will need a Bridge rectifier to remove it. You will do it when you get to it
 
 
 ```
+
+
+https://pijaeducation.com/adc-in-arduino/
+
+
+Converting analog to digital data:
+
+![image](https://user-images.githubusercontent.com/14288989/210312064-4b5da314-4a6f-4c5d-8077-9b6c929bf2e0.png)
+
+
+![image](https://user-images.githubusercontent.com/14288989/210312112-35ebe832-517b-4d96-9c98-5bade11714c2.png)
+
+😅
+
+![image](https://user-images.githubusercontent.com/14288989/210312160-9618a57c-b686-4f00-8112-f85617e64f41.png)
+
+😅
