@@ -194,3 +194,5 @@ Converting analog to digital data:
 ![image](https://user-images.githubusercontent.com/14288989/210312160-9618a57c-b686-4f00-8112-f85617e64f41.png)
 
 😅
+---
+
