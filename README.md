@@ -1,6 +1,6 @@
 # PiezeElectricTransducer
 
-
+```
 [09:58, 29/12/2022] +91 70731 78377: Hey
 [10:45, 29/12/2022] +91 70731 78377: Got your number from Vishal electronics
 [10:45, 29/12/2022] +91 70731 78377: Wanted to talk regarding project
@@ -171,3 +171,6 @@ Yes sir
 None of the videos show a negative voltage ? How come. I thought in theory it produces both a Positive and a Negative voltage and here it does not !( which comes to - do you need a diode )
 Just keep it in mind.
 You will need a Bridge rectifier to remove it. You will do it when you get to it. Just saying.
+
+
+```
