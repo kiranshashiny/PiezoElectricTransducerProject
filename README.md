@@ -196,3 +196,38 @@ Converting analog to digital data:
 😅
 ---
 
+
+How to collect data from Piezo transducer output to Arduino's Analog pins.
+
+```
+https://projecthub.arduino.cc/sadreactonly/fa2bf887-2bcd-4334-b3ce-8ab673d44943
+
+#include <Servo.h>
+
+// DFPlayer 
+#define BUSYPIN 2
+#define VOLUME_INITIAL   20
+
+//Piezoelectric
+#define PIEZO_PIN A0
+#define THRESHOLD 70
+
+void setup() {
+  Serial.begin(115200);
+   
+}
+
+void   loop() {
+
+  //Read piezoelectric
+  int val= analogRead(PIEZO_PIN);
+   delay(100);
+
+  // Check that the piezo is pressed
+  if (val >= THRESHOLD)
+   {
+  }
+
+}
+
+```
