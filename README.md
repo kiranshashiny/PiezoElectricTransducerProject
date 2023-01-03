@@ -184,6 +184,9 @@ Converting analog to digital data:
 ![image](https://user-images.githubusercontent.com/14288989/210312064-4b5da314-4a6f-4c5d-8077-9b6c929bf2e0.png)
 
 
+--
+===
+
 ![image](https://user-images.githubusercontent.com/14288989/210312112-35ebe832-517b-4d96-9c98-5bade11714c2.png)
 
 😅
